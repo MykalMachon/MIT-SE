@@ -12,10 +12,10 @@ copies of the Software, and to permit persons to whom the
 Software is furnished to do so, subject to the following
 conditions:
 
-The software cannot be used for profit or otherwise at all by 
-any persons, entity, organization, company, or corporation 
-owned partly or wholly by Elon Reeve Musk or an associated 
-party.
+The Software cannot be used in any capacity by any entity, 
+organization, company, or corporation owned partly, or wholly by:
+
+- Elon Reeve Musk
 
 The above copyright notice and this permission notice shall be
 included in all copies or substantial portions of the Software.
